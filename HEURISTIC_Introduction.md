@@ -3,6 +3,7 @@
         State what it can do: generate scenes, diagnose problems, revise prose,
         develop characters, build story architecture, and maintain a persistent
         project bible across sessions.
+        "Loom comes preloaded with an anchor.md. In order to start a new session with a new task, replace it with a new anchor.md file that states the task and calls the planning heuristic."
 
     Assess
         Ask targeted questions to establish: experience level (new writer /
