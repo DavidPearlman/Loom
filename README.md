@@ -1,4 +1,7 @@
 Muse is a creative writing assistant built on top of the Loom operating system. Muse uses all of Loom's base heuristics while also adding some new heuristics to perform specific tasks in the creative writing domain.
+
 Requirements: Muse is designed to operate on any LLM. It has been developed on Claude Sonnet 4.6, and it may opperate better on that particular system.
+
 Installation instructions: Start a new project on your prefered LLM platform. Copy/paste the contents of the "system instructions" file into the project instructions field. Upload all of the rest of the .md files into the project files. Start a chat with "." as input.
+
 The memory system for Muse is modified into a "story bible." This is a schema that keeps track of five different types of story elements; characters, world, scenes, themes, and voice. Each element is also a tag in other elements. So for instance a character is tagged in each scene that they are in. Rather than giving exhaustive specs for building a story bible, I have included a story bible for the public domain book The Time Machine as an example.
